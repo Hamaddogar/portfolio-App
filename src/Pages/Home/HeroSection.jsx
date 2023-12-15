@@ -11,8 +11,7 @@ export default function HeroSection() {
             Developer
           </h1>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-            <br /> Dolorum, quas. Amet soluta assumenda cum?
+          Hello there! I'm Basit Malik, a passionate Full Stack Developer and Web Designer on a mission to turn digital ideas into captivating realities.<br/> With a keen eye for design and a knack for seamless functionality, I bring innovation and creativity to every project.
           </p>
         </div>
         <button className="btn btn-primary">Get In Touch</button>

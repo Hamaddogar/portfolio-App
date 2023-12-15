@@ -4,25 +4,25 @@
       "id": "1",
       "src": "./img/product-chain-1.png",
       "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "I specialize in crafting visually appealing and responsive front-end experiences using HTML, CSS, and JavaScript. With a focus on user experience, I create engaging interfaces that captivate users."
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
       "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "As a seasoned back-end developer, I architect robust and scalable server-side solutions using languages like Python, Node.js, and PHP. Security and efficiency are key in my approach, laying a strong foundation for dynamic web applications"
     },
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
       "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "IIn UI/UX design, I blend aesthetics with functionality to create intuitive and visually compelling interfaces. From wireframes to prototypes, I craft designs that elevate the overall impact of digital solutions"
     },
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
       "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Utilizing Webflow, I streamline the development process, translating concepts into interactive and responsive sites. With a visual development approach, I deliver visually stunning websites with precision and speed, fostering efficient collaboration"
     }
   ],
   "portfolio": [
